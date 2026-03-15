@@ -15,7 +15,7 @@ Framer charges $15-30/mo just to host your site. Your HTML, CSS, and assets are 
 
 ## Demo
 
-<!-- Screenshots/Loom coming soon -->
+https://github.com/rakshith48/framer-to-cloudflare/releases/download/v1.0/loom-video-edited.mp4
 
 ## Prerequisites
 
