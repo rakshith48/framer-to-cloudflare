@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/be2b781d-400f-44c4-b916-75b41a06f002
 ## Prerequisites
 
 - [Claude Code CLI](https://docs.anthropic.com/en/docs/claude-code) installed
-- [Chrome DevTools MCP server](https://github.com/anthropics/chrome-devtools-mcp) configured in Claude Code — used for site discovery, screenshot comparison, and verifying the mirror
+- [Chrome DevTools MCP server](https://github.com/ChromeDevTools/chrome-devtools-mcp) configured in Claude Code — used for site discovery, screenshot comparison, and verifying the mirror (alternatively, [Playwright MCP](https://github.com/anthropics/mcp-playwright) works too)
 - A [Cloudflare account](https://dash.cloudflare.com/sign-up) (free tier works)
 - Your published Framer site URL (e.g. `https://your-site.framer.app`)
 - Node.js 18+
