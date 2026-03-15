@@ -15,7 +15,7 @@ Framer charges $15-30/mo just to host your site. Your HTML, CSS, and assets are 
 
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/307be678-7922-44cf-afea-a824886354f7" controls width="100%"></video>
+https://github.com/user-attachments/assets/be2b781d-400f-44c4-b916-75b41a06f002
 
 ## Prerequisites
 
