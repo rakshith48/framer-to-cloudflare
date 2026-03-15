@@ -20,6 +20,7 @@ Framer charges $15-30/mo just to host your site. Your HTML, CSS, and assets are 
 ## Prerequisites
 
 - [Claude Code CLI](https://docs.anthropic.com/en/docs/claude-code) installed
+- [Chrome DevTools MCP server](https://github.com/anthropics/chrome-devtools-mcp) configured in Claude Code — used for site discovery, screenshot comparison, and verifying the mirror
 - A [Cloudflare account](https://dash.cloudflare.com/sign-up) (free tier works)
 - Your published Framer site URL (e.g. `https://your-site.framer.app`)
 - Node.js 18+
